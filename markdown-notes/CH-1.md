@@ -28,7 +28,7 @@ A substance in the **liquid** or **gas** phase is referred to as a **fluid**
 
 > A fluid **deforms continuously** under the influence of a shear stress, no matter how small and approaches a certain rate of strain
 
-## The No-Slip Condition
+## 1-1 The No-Slip Condition
 
 ### Definition
 
@@ -38,7 +38,7 @@ A fluid in direct contact with a solid "sticks" to the surface due to viscous ef
 
 <div align = center><img src = "../assets/CH1-1.png"></div>
 
-## System and Control Volume
+## 1-2 System and Control Volume
 
 ### Definition
 
