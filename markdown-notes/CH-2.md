@@ -11,8 +11,6 @@ Any characteristic of a system is called a **property**
 
 ## 2-1 Density and Specific Gravity
 
-### Definition
-
 $$
 \begin{aligned}
     \rho &= \frac{m}{V}\\[2ex]
@@ -20,7 +18,7 @@ $$
 \end{aligned}
 $$
 
-### Density of Ideal Gases
+and we could find the density of the ideal gas by the following equation
 
 $$
 PV = mRT
@@ -28,15 +26,13 @@ $$
 
 ## 2-2 Vapor Pressure and Cavitation
 
-### Definition 
-
-the collapse of cavities of vapor in a liquid
+the **collapse of cavities** of vapor in a liquid
 
 > is a violent process which can damage machinery and can cause structural vibrations
 
 ## 2-3 Compressibility
 
-### Coefficient of Compressibility
+Coefficient of compressibility is introduced in the following equations
 
 $$
 \kappa\approxeq-\frac{\Delta P}{\Delta v/v}\approxeq \frac{\Delta P}{\Delta \rho/\rho}
@@ -84,8 +80,6 @@ $$
 $$
 
 ## 2-5 Capillary Effect
-
-### Definition
 
 the rise of fall of a liquid in a small-diameter tube inserted into a liquid
 

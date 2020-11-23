@@ -1,4 +1,4 @@
-# CH-3
+# Chapter 3
 
 [TOC]
 
@@ -12,8 +12,6 @@ $$
 $$
 
 ## 3-2 Hydrostatic Forces on Submerged Plane Surfaces
-
-### Definition
 
 On a plane surface, the hydrostatic forces form a system of parallel forces, and we often need to determine the *magnitude* of the force and its *points of location*, which is called **the center of the pressure**
 
