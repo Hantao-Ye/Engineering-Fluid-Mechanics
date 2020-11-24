@@ -28,9 +28,12 @@ $$
 
 the **collapse of cavities** of vapor in a liquid
 
+- $P_{\text{local}}>P_v$: safe
+- $P_{\text{local}}\leq P_v$: risk of cavitation
+
 > is a violent process which can damage machinery and can cause structural vibrations
 
-## 2-3 Compressibility
+<!-- ## 2-3 Compressibility
 
 Coefficient of compressibility is introduced in the following equations
 
@@ -42,9 +45,9 @@ and for ideal gas, we have
 
 $$
 \frac{\Delta P}{P} = \frac{\Delta \rho}{\rho}
-$$
+$$ -->
 
-## 2-4 Viscosity
+## 2-3 Viscosity
 
 ### Definition
 
@@ -79,7 +82,7 @@ $$
 \end{aligned}
 $$
 
-## 2-5 Capillary Effect
+<!-- ## 2-5 Capillary Effect
 
 the rise of fall of a liquid in a small-diameter tube inserted into a liquid
 
@@ -87,4 +90,4 @@ $$
 h = \frac{2\sigma_s}{\rho g R}\cos\phi
 $$
 
-<div align = center><img src = "../assets/CH2-3.png"></div>
+<div align = center><img src = "../assets/CH2-3.png"></div> -->
