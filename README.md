@@ -22,6 +22,12 @@
 | :------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 | 下载地址 | [click me](https://github.com/Hantao-Ye/Engineering-Fluid-Mechanics/raw/main/pdf-notes/Overview.pdf) | [click me](https://github.com/Hantao-Ye/Engineering-Fluid-Mechanics/raw/main/compressed-files/overview-note.zip) |
 
+如果遇到下载速度慢，使用以下方法
+
+1. 挂上梯子
+2. 使用Chrome浏览器，在扩展商店下载[GitHub加速器](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg?hl=zh-CN)
+3. 点击[链接](https://wws.lanzous.com/iYVRSiw8rdi)，下载GitHub加速器crx文件，跟随[教程](https://zhuanlan.zhihu.com/p/80305764)完成安装
+
 ## Contribute Struggle in BJTU
 
 **Struggle in BJTU**是由本人提出的一个项目，旨在让交大的MECE students共享交大课程笔记与学习资源，为专业课的学习指点迷津
