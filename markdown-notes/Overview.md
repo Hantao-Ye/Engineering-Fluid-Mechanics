@@ -2,6 +2,8 @@
 
 [TOC]
 
+</br>
+
 ## Chapter 1
 
 ### Introduction
@@ -246,13 +248,13 @@ $$
 ### 5-3 Energy Analysis of Steady Flows
 
 $$
-\frac{P_1}{\rho g}+\alpha_1\frac{V_1^2}{2g}+z_1+h_{\text{pump},u}=\frac{P_2}{\rho g}+\alpha_2\frac{V_2^2}{2g}+z_2+h_{\text{turbine},e}+h_L
+\dot{m}\Big(\frac{P_1}{\rho}+\alpha_1\frac{V_1^2}{2}+gz_1\Big)+\dot{W}_{\text{pump,u}}=\dot{m}\Big(\frac{P_2}{\rho}+\alpha_2\frac{V_2^2}{2}+gz_2\Big)+\dot{W}_{\text{turbine,e}}+E_{\text{mech,loss}}
 $$
 
 - $\alpha$: the kinetic energy correction factor
-- $h_{\text{pump},u}$: the useful head delivered
-- $h_{\text{turbine},e}$: the extracted head removed from the fluid by the turbine
-- $h_L$: irreversible head loss
+- $\dot{W}_{\text{pump},u}$: the useful energy that the pump delivered
+- $\dot{W}_{\text{turbine},e}$: the energy used by turbine
+- $E_{\text{mech,loss}}$: the mechanical energy that lost
 
 ## Chapter 6
 
